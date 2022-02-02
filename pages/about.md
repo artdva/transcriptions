@@ -15,9 +15,9 @@ ID: Interaction Design
 
 FA: Fine Arts
 
-CS: Computer Design
+CS: Computer Science
 
-CSA: Computer Design & Arts Combined Degree
+CSA: Computer Science & Arts Combined Degree
  
 
 If you have any questions, please email me at jane94@student.ubc.ca

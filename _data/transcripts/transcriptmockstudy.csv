@@ -22,36 +22,36 @@ timestamp,speaker,words,tags
 ,CSA,"I would say 2, 3, 1.",
 ,FA,"Yeah, I would agree in terms of desirability, 2, 3, and then 1.",
 ,CS,"Yeah, I would also do 2, 3, 1. Hm, it's hard though.",
-,ID,It feels like 3 has a better target on who they want to help and seems like it's more at-risk children. It knows what problems it wants to solve. 1 is more like enrichment.,clarity;technical;influencing factor
+,ID,It feels like 3 has a better target on who they want to help and seems like it's more at-risk children. It knows what problems it wants to solve. 1 is more like enrichment.,clarity;technical;influentiality
 ,CS,"Sorry, what was that last part?",
-,ID,Proposal 1 is more like adding onto maybe a child's life?,influencing factor
+,ID,Proposal 1 is more like adding onto maybe a child's life?,influentiality
 ,CS,Proposal 1 doesn't have a clear idea of what they want to do?,clarity
-,ID,"They have an idea, but it feels like it's not really helping children who are at-risk at the moment, there's a lot of children who have lost an entire year of learning because of the pandemic. They've been living kind of privileged lives, but kids in proposal 2 and 3 need help. So, yeah, that's I guess my cons of it if we were to go for one it would not be that one.",influencing factor
-,CS,"Yeah, I agree. It's really vague I guess. What exactly would you be teaching, what are you teaching, the audience is super broad. Like all kids? I think like you said, they're not really at-risk or not as specific as the other ideas. So yeah, I agree with that.",clarity;influencing factor;feasibility
+,ID,"They have an idea, but it feels like it's not really helping children who are at-risk at the moment, there's a lot of children who have lost an entire year of learning because of the pandemic. They've been living kind of privileged lives, but kids in proposal 2 and 3 need help. So, yeah, that's I guess my cons of it if we were to go for one it would not be that one.",influentiality
+,CS,"Yeah, I agree. It's really vague I guess. What exactly would you be teaching, what are you teaching, the audience is super broad. Like all kids? I think like you said, they're not really at-risk or not as specific as the other ideas. So yeah, I agree with that.",clarity;influentiality;feasibility
 ,CSA,"Yeah, one thing I worry about number 1 is that it's just like this general doll that's listening in on what kids are doing in their home. I feel like that a lot of people would have concerns about security and privacy for that one. It's like a Google Home but targeted for kids, which actually makes it worse.",privacy
 ,ID,"I can see Facebook making something like this. So proposal 2, we're discussing all the pros and cons and implications.",feasibility
-,CSA,"Proposal 2, it's the most focused to me, its goal. I'd admit that the execution might be tough. How do you get the kids to wear-?",technical;influencing factor;feasibility;impactfulness
-,ID,It looks like they will need to be in the lab or something.,technical;influencing factor
-[3:13],FA,"If you were doing this at home, you would have to also rely on, I'm assuming you'd have to rely on the parents to set it up correctly each time, record it properly each time, and it's I guess it's less controlled settings. I've done studies at UBC where they put the thing on your head, but they control it the whole time and they know how to operate this machine to capture the data properly.",technical;influencing factor;feasibility;relationality
-,ID,"I'm assuming it would have to be sessions again and again to develop these habits, so it has to be quite...I guess it can't be adapted at scale. You would have to need a lot of money to set this up for all the children who are at-risk, because there are so many children at this place at the moment.",influencing factor;feasibility
-,FA,I guess the sample study is going to be smallish. I don't know. It's nice when you have a bigger group that you can survey.,clarity;influencing factor
-,CSA,If it was offered as a service in a clinic or something like that.,technical;influencing factor
-,FA,I guess that can be our question for number 2. How would the researchers record the data? Are the kids going to a lab each day? Are the parents going to be doing it? Something like that. But I do like number 2. I think the goals are good.,clarity;influencing factor;feasibility
-,CSA,"If it can be implemented, I do like number 2. I think it has the most obvious impact.",influencing factor
-,CS,"Yeah, I definitely think 2 seems to be the most viable, honestly, even though it seems like there are a lot of challenges because I don't see the other ones being as focused or specific. For example, 3 is just like it will look at the environment and somehow will be able to detect the kid's eyes. I think kids are moving around a lot and it's really hard to distinguish, necessarily...also how do you know who is the kid? I'm not sure. 2 is like you put on this thing and it does a certain meditative exercise. It seems like, if it's set up correctly, it's pretty straightforward. But the other 2 doesn't seem very straightforward. There's like a lot of possible environmental noise.",technical;influencing factor;feasibility
-,CSA,The other 2 seem to collect data but doesn't offer a solution or direction.,clarity;influencing factor
-,ID,"Oh, I can see that. Reading proposal three...instead of using tech, optometrists. Or teaching parents or instructors or whatever adult is in their life...like when I was younger, I was squinting at the blackboard for like way too long, so my teacher noticed and told my mom 'I think she needs glasses!' so just noticing these things, it's not that hard to diagnose. My question for proposal 3 might be, what are the ways that have been tried before and did not work and how is this more efficient and viable than people noticing.",technical;relationality;influencing factor;feasibility
-,FA,Than taking your kid to the doctor.,influencing factor
-,ID,"Yeah, being aware.",influencing factor
+,CSA,"Proposal 2, it's the most focused to me, its goal. I'd admit that the execution might be tough. How do you get the kids to wear-?",technical;influentiality;feasibility;impactfulness
+,ID,It looks like they will need to be in the lab or something.,technical;influentiality
+[3:13],FA,"If you were doing this at home, you would have to also rely on, I'm assuming you'd have to rely on the parents to set it up correctly each time, record it properly each time, and it's I guess it's less controlled settings. I've done studies at UBC where they put the thing on your head, but they control it the whole time and they know how to operate this machine to capture the data properly.",technical;influentiality;feasibility;relationality
+,ID,"I'm assuming it would have to be sessions again and again to develop these habits, so it has to be quite...I guess it can't be adapted at scale. You would have to need a lot of money to set this up for all the children who are at-risk, because there are so many children at this place at the moment.",influentiality;feasibility
+,FA,I guess the sample study is going to be smallish. I don't know. It's nice when you have a bigger group that you can survey.,clarity;influentiality
+,CSA,If it was offered as a service in a clinic or something like that.,technical;influentiality
+,FA,I guess that can be our question for number 2. How would the researchers record the data? Are the kids going to a lab each day? Are the parents going to be doing it? Something like that. But I do like number 2. I think the goals are good.,clarity;influentiality;feasibility
+,CSA,"If it can be implemented, I do like number 2. I think it has the most obvious impact.",influentiality
+,CS,"Yeah, I definitely think 2 seems to be the most viable, honestly, even though it seems like there are a lot of challenges because I don't see the other ones being as focused or specific. For example, 3 is just like it will look at the environment and somehow will be able to detect the kid's eyes. I think kids are moving around a lot and it's really hard to distinguish, necessarily...also how do you know who is the kid? I'm not sure. 2 is like you put on this thing and it does a certain meditative exercise. It seems like, if it's set up correctly, it's pretty straightforward. But the other 2 doesn't seem very straightforward. There's like a lot of possible environmental noise.",technical;influentiality;feasibility
+,CSA,The other 2 seem to collect data but doesn't offer a solution or direction.,clarity;influentiality
+,ID,"Oh, I can see that. Reading proposal three...instead of using tech, optometrists. Or teaching parents or instructors or whatever adult is in their life...like when I was younger, I was squinting at the blackboard for like way too long, so my teacher noticed and told my mom 'I think she needs glasses!' so just noticing these things, it's not that hard to diagnose. My question for proposal 3 might be, what are the ways that have been tried before and did not work and how is this more efficient and viable than people noticing.",technical;relationality;influentiality;feasibility
+,FA,Than taking your kid to the doctor.,influentiality
+,ID,"Yeah, being aware.",influentiality
 ,FA,Oh I don't think we came up with a question for number 1.,
 ,CS,I don't think we did. I actually don't have a question for number 2 unless...I wrote like how would researchers record the data but is that the question we want to use for number 2?,
 ,FA,How would this be carried out? How would researchers...,clarity;feasibility
 ,ID,"Lab or at home, how often, also curious what their research behind it is. Have they researched how often these kids might need to do this if we utilize the tech?",clarity;technical;feasibility
 ,CSA,"For the first one, I mean I have a lot of questions about that. What do they plan to do about those privacy concerns, security concerns? What is done with the data exactly?",privacy;feasibility
-,CS,"Yeah, I mean, I think that's the biggest one. Do you plan to create a personalized curriculum for each kid? It's just really vague.",clarity;influencing factor
-,CSA,"Yeah, it sounds expensive to manufacture, doesn't seem like it would be accessible by a lot of kids.",influencing factor;feasibility
-,CS,Authentic play is difficult but you would get more authentic play with a robot doll?,clarity;influencing factor;feasibility
+,CS,"Yeah, I mean, I think that's the biggest one. Do you plan to create a personalized curriculum for each kid? It's just really vague.",clarity;influentiality
+,CSA,"Yeah, it sounds expensive to manufacture, doesn't seem like it would be accessible by a lot of kids.",influentiality;feasibility
+,CS,Authentic play is difficult but you would get more authentic play with a robot doll?,clarity;influentiality;feasibility
 ,ID,It will be the future...that we're talking about.,feasibility
-,CSA,Number 1 doesn't seem technically feasible right now.,influencing factor;feasibility
-,ID,"Also to mass produce. It could be 1 super specialized one, but, probably not.",influencing factor;feasibility
+,CSA,Number 1 doesn't seem technically feasible right now.,influentiality;feasibility
+,ID,"Also to mass produce. It could be 1 super specialized one, but, probably not.",influentiality;feasibility
 ,CSA,"I think we basically...our ranking is 2, 3, 1.",

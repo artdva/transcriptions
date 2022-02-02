@@ -1,7 +1,7 @@
 timestamp,speaker,words,tags
-[0:00],Me,"Ok, T is notetaker and does someone want to be the announcing person at the end?",instructional
+[0:00],Me,"Ok, CS is notetaker and does someone want to be the announcing person at the end?",instructional
 ,ID,I can be the announcer,instructional
-,Me,Ok Y is going to be the second person. Ok I am going to disappear. The instructions are on the side. Let me know if you have any questions and I will give you like a 5 minute notice. [at this point I leave],instructional
+,Me,Ok ID is going to be the second person. Ok I am going to disappear. The instructions are on the side. Let me know if you have any questions and I will give you like a 5 minute notice. [at this point I leave],instructional
 ,ID,Ok let's do this. When she said instructions I assume she means the rubric?,clarity
 ,FA,"Yeah, so three in like ranking order 1, 2, 3, and prepare one question for each proposal. Hmm. They all seem really like, I don't know, high-tech. I don't know if these are...the technology is there.",clarity;feasibility
 ,CS,"Yeah, they sound good on paper, but I think the execution is a whole...",feasibility

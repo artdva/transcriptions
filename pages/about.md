@@ -15,10 +15,25 @@ ID: Interaction Design
 
 FA: Fine Arts
 
-CS: Computer Science
+CS: Undergraduate Computer Science 
+
+MCS: Master's of Computer Science
+
+CM: Children's Literature, Media, and Culture
 
 CSA: Computer Science & Arts Combined Degree
- 
+
+ED: Education
+
+GG: Geography and GIS
+
+HS: History
+
+MD: Medicine
+
+PH: Pharmaceutical Science
+
+SC: Undergraduate Science
 
 If you have any questions, please email me at jane94@student.ubc.ca
 
